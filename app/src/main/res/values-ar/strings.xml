@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">منزل الفيديو</string>
+    <string name="language_selection_title">اختر لغتك</string>
+    <string name="language_selection_subtitle">اختر لغتك المفضلة للمتابعة</string>
+    <string name="search_language">بحث عن لغة</string>
+    <string name="auto_detect_language">كشف اللغة تلقائيًا</string>
+    <string name="continue_btn">استمرار</string>
+    <string name="home">الرئيسية</string>
+    <string name="downloads">التنزيلات</string>
+    <string name="collection">المجموعة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="download">تنزيل</string>
+    <string name="status_saver">حفظ الحالة</string>
+    <string name="video_player">مشغل الفيديو</string>
+    <string name="locked_videos">فيديوهات مقفلة</string>
+    <string name="hidden_videos">فيديوهات مخفية</string>
+    <string name="notes">ملاحظات</string>
+    <string name="enter_url">أدخل الرابط</string>
+    <string name="paste_link">لصق الرابط</string>
+    <string name="search">بحث</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="edit">تعديل</string>
+    <string name="history">السجل</string>
+    <string name="all">الكل</string>
+    <string name="downloading">جاري التنزيل</string>
+    <string name="completed">مكتمل</string>
+    <string name="no_downloads">لا توجد تنزيلات بعد</string>
+    <string name="error_invalid_url">رابط غير صالح</string>
+    <string name="download_started">بدأ التنزيل</string>
+    <string name="download_finished">انتهى التنزيل</string>
+</resources>

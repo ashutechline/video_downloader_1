@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Video İndirici</string>
+    <string name="language_selection_title">Dilinizi Seçin</string>
+    <string name="language_selection_subtitle">Devam etmek için tercih ettiğiniz dili seçin</string>
+    <string name="search_language">Dil ara</string>
+    <string name="auto_detect_language">Dili otomatik algıla</string>
+    <string name="continue_btn">Devam Et</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="downloads">İndirmeler</string>
+    <string name="collection">Koleksiyon</string>
+    <string name="settings">Ayarlar</string>
+    <string name="download">İndir</string>
+    <string name="status_saver">Durum Kaydedici</string>
+    <string name="video_player">Video Oynatıcı</string>
+    <string name="locked_videos">Kilitli Videolar</string>
+    <string name="hidden_videos">Gizli Videolar</string>
+    <string name="notes">Notlar</string>
+    <string name="enter_url">URL Girin</string>
+    <string name="paste_link">Bağlantıyı Yapıştır</string>
+    <string name="search">Ara</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="edit">Düzenle</string>
+    <string name="history">Geçmiş</string>
+    <string name="all">Tümü</string>
+    <string name="downloading">İndiriliyor</string>
+    <string name="completed">Tamamlandı</string>
+    <string name="no_downloads">Henüz indirme yok</string>
+    <string name="error_invalid_url">Geçersiz URL</string>
+    <string name="download_started">İndirme başladı</string>
+    <string name="download_finished">İndirme bitti</string>
+</resources>

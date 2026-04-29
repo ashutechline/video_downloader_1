@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">वीडियो डाउनलोडर</string>
+    <string name="language_selection_title">अपनी भाषा चुनें</string>
+    <string name="language_selection_subtitle">जारी रखने के लिए अपनी पसंदीदा भाषा चुनें</string>
+    <string name="search_language">भाषा खोजें</string>
+    <string name="auto_detect_language">भाषा स्वतः पहचानें</string>
+    <string name="continue_btn">जारी रखें</string>
+    <string name="home">होम</string>
+    <string name="downloads">डाउनलोड</string>
+    <string name="collection">संग्रह</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="download">डाउनलोड करें</string>
+    <string name="status_saver">स्टेटस सेवर</string>
+    <string name="video_player">वीडियो प्लेयर</string>
+    <string name="locked_videos">लॉक किए गए वीडियो</string>
+    <string name="hidden_videos">छिपे हुए वीडियो</string>
+    <string name="notes">नोट्स</string>
+    <string name="enter_url">यूआरएल दर्ज करें</string>
+    <string name="paste_link">लिंक पेस्ट करें</string>
+    <string name="search">खोजें</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सहेजें</string>
+    <string name="edit">संपादित करें</string>
+    <string name="history">इतिहास</string>
+    <string name="all">सभी</string>
+    <string name="downloading">डाउनलोड हो रहा है</string>
+    <string name="completed">पूरा हुआ</string>
+    <string name="no_downloads">अभी तक कोई डाउनलोड नहीं</string>
+    <string name="error_invalid_url">अमान्य यूआरएल</string>
+    <string name="download_started">डाउनलोड शुरू हुआ</string>
+    <string name="download_finished">डाउनलोड समाप्त हुआ</string>
+</resources>

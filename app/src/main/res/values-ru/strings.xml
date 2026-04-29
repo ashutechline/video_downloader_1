@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Загрузчик видео</string>
+    <string name="language_selection_title">Выберите язык</string>
+    <string name="language_selection_subtitle">Выберите предпочитаемый язык, чтобы продолжить</string>
+    <string name="search_language">Поиск языка</string>
+    <string name="auto_detect_language">Автоопределение языка</string>
+    <string name="continue_btn">Продолжить</string>
+    <string name="home">Главная</string>
+    <string name="downloads">Загрузки</string>
+    <string name="collection">Коллекция</string>
+    <string name="settings">Настройки</string>
+    <string name="download">Скачать</string>
+    <string name="status_saver">Сохранение статуса</string>
+    <string name="video_player">Видеоплеер</string>
+    <string name="locked_videos">Заблокированные видео</string>
+    <string name="hidden_videos">Скрытые видео</string>
+    <string name="notes">Заметки</string>
+    <string name="enter_url">Введите URL</string>
+    <string name="paste_link">Вставить ссылку</string>
+    <string name="search">Поиск</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Изменить</string>
+    <string name="history">История</string>
+    <string name="all">Все</string>
+    <string name="downloading">Загрузка...</string>
+    <string name="completed">Завершено</string>
+    <string name="no_downloads">Загрузок пока нет</string>
+    <string name="error_invalid_url">Неверный URL</string>
+    <string name="download_started">Загрузка началась</string>
+    <string name="download_finished">Загрузка завершена</string>
+</resources>

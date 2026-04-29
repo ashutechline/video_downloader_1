@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ビデオダウンローダー</string>
+    <string name="language_selection_title">言語を選択</string>
+    <string name="language_selection_subtitle">続行するにはお好みの言語を選択してください</string>
+    <string name="search_language">言語を検索</string>
+    <string name="auto_detect_language">言語を自動検出</string>
+    <string name="continue_btn">続行</string>
+    <string name="home">ホーム</string>
+    <string name="downloads">ダウンロード</string>
+    <string name="collection">コレクション</string>
+    <string name="settings">設定</string>
+    <string name="download">ダウンロード</string>
+    <string name="status_saver">ステータスセーバー</string>
+    <string name="video_player">ビデオプレーヤー</string>
+    <string name="locked_videos">ロックされたビデオ</string>
+    <string name="hidden_videos">非表示のビデオ</string>
+    <string name="notes">ノート</string>
+    <string name="enter_url">URLを入力</string>
+    <string name="paste_link">リンクを貼り付け</string>
+    <string name="search">検索</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="edit">編集</string>
+    <string name="history">履歴</string>
+    <string name="all">すべて</string>
+    <string name="downloading">ダウンロード中</string>
+    <string name="completed">完了</string>
+    <string name="no_downloads">ダウンロードはまだありません</string>
+    <string name="error_invalid_url">無効なURL</string>
+    <string name="download_started">ダウンロードを開始しました</string>
+    <string name="download_finished">ダウンロードが完了しました</string>
+</resources>

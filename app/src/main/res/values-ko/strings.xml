@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">비디오 다운로더</string>
+    <string name="language_selection_title">언어 선택</string>
+    <string name="language_selection_subtitle">계속하려면 선호하는 언어를 선택하세요</string>
+    <string name="search_language">언어 검색</string>
+    <string name="auto_detect_language">언어 자동 감지</string>
+    <string name="continue_btn">계속</string>
+    <string name="home">홈</string>
+    <string name="downloads">다운로드</string>
+    <string name="collection">컬렉션</string>
+    <string name="settings">설정</string>
+    <string name="download">다운로드</string>
+    <string name="status_saver">상태 저장기</string>
+    <string name="video_player">비디오 플레이어</string>
+    <string name="locked_videos">잠긴 비디오</string>
+    <string name="hidden_videos">숨겨진 비디오</string>
+    <string name="notes">노트</string>
+    <string name="enter_url">URL 입력</string>
+    <string name="paste_link">링크 붙여넣기</string>
+    <string name="search">검색</string>
+    <string name="delete">삭제</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="edit">편집</string>
+    <string name="history">기록</string>
+    <string name="all">모두</string>
+    <string name="downloading">다운로드 중</string>
+    <string name="completed">완료됨</string>
+    <string name="no_downloads">다운로드 기록 없음</string>
+    <string name="error_invalid_url">유효하지 않은 URL</string>
+    <string name="download_started">다운로드 시작됨</string>
+    <string name="download_finished">다운로드 완료됨</string>
+</resources>

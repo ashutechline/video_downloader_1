@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Trình tải Video</string>
+    <string name="language_selection_title">Chọn Ngôn ngữ</string>
+    <string name="language_selection_subtitle">Chọn ngôn ngữ yêu thích của bạn để tiếp tục</string>
+    <string name="search_language">Tìm kiếm ngôn ngữ</string>
+    <string name="auto_detect_language">Tự động phát hiện ngôn ngữ</string>
+    <string name="continue_btn">Tiếp tục</string>
+    <string name="home">Trang chủ</string>
+    <string name="downloads">Tải xuống</string>
+    <string name="collection">Bộ sưu tập</string>
+    <string name="settings">Cài đặt</string>
+    <string name="download">Tải xuống</string>
+    <string name="status_saver">Trình tiết kiệm trạng thái</string>
+    <string name="video_player">Trình phát Video</string>
+    <string name="locked_videos">Video đã khóa</string>
+    <string name="hidden_videos">Video ẩn</string>
+    <string name="notes">Ghi chú</string>
+    <string name="enter_url">Nhập URL</string>
+    <string name="paste_link">Dán liên kết</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="history">Lịch sử</string>
+    <string name="all">Tất cả</string>
+    <string name="downloading">Đang tải xuống</string>
+    <string name="completed">Đã hoàn thành</string>
+    <string name="no_downloads">Chưa có tải xuống nào</string>
+    <string name="error_invalid_url">URL không hợp lệ</string>
+    <string name="download_started">Bắt đầu tải xuống</string>
+    <string name="download_finished">Tải xuống kết thúc</string>
+</resources>

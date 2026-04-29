@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+    <string name="language_selection_title">Scegli la tua lingua</string>
+    <string name="language_selection_subtitle">Seleziona la tua lingua preferita per continuare</string>
+    <string name="search_language">Cerca lingua</string>
+    <string name="auto_detect_language">Rileva lingua automaticamente</string>
+    <string name="continue_btn">Continua</string>
+    <string name="home">Home</string>
+    <string name="downloads">Download</string>
+    <string name="collection">Collezione</string>
+    <string name="settings">Impostazioni</string>
+    <string name="download">Scarica</string>
+    <string name="status_saver">Risparmio Stato</string>
+    <string name="video_player">Lettore Video</string>
+    <string name="locked_videos">Video Bloccati</string>
+    <string name="hidden_videos">Video Nascosti</string>
+    <string name="notes">Note</string>
+    <string name="enter_url">Inserisci URL</string>
+    <string name="paste_link">Incolla link</string>
+    <string name="search">Cerca</string>
+    <string name="delete">Elimina</string>
+    <string name="cancel">Annulla</string>
+    <string name="save">Salva</string>
+    <string name="edit">Modifica</string>
+    <string name="history">Cronologia</string>
+    <string name="all">Tutto</string>
+    <string name="downloading">Download in corso</string>
+    <string name="completed">Completato</string>
+    <string name="no_downloads">Ancora nessun download</string>
+    <string name="error_invalid_url">URL non valido</string>
+    <string name="download_started">Download iniziato</string>
+    <string name="download_finished">Download terminato</string>
+</resources>

@@ -10,11 +10,11 @@ kapt {
 }
 
 android {
-    namespace = "com.example.video_downloder"
-    compileSdk = 34
+    namespace = "com.quickvideodownloader.app"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.video_downloder"
+        applicationId = "com.quickvideodownloader.app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
